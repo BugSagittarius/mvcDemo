@@ -3,10 +3,4 @@
 
 详细可参考我的博客地址：
 
-博客园：https://www.cnblogs.com/yeya/p/10320885.html
-
-CSDN：https://blog.csdn.net/yeyazhishang/article/details/86650053
-
-掘金：https://juejin.im/post/5c4adafaf265da6142743d47
-
-简书：https://www.jianshu.com/p/e09adeba30d9
+(开源中国)OSCHINA博客：https://my.oschina.net/u/3357169/blog/3115486
